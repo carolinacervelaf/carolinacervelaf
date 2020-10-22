@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There 👋, I'm Carolina Freire</h1>
-<h4 align="center">A full-stack developer, currently living in Rio de Janeiro, Brazil.</h4>
+<h5 align="center">A full-stack developer, certified by Ironhack and currently living in Rio de Janeiro, Brazil.</h5>
 
 - 📫 How to reach me **carolinacervelaf@gmail.com**
 
