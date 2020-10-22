@@ -1,4 +1,3 @@
-### Hi there 👋!!
 
 <h1 align="center">Hi There 👋, I'm I'm Carolina Freire</h1>
 <h3 align="center">A full-stack developer currently living in Rio de Janeiro, Brazil.</h3>
